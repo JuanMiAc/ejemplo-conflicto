@@ -1,5 +1,9 @@
 Linea 1
 
 Linea 2 modificada en rama
+<<<<<<< HEAD
 
 Linea 3
+=======
+Linea 3 modificación ramaconflicto
+>>>>>>> 79f5edb7eb47a22f64e694010c6fe8caebc5095e
