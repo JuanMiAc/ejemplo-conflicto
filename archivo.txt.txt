@@ -1,3 +1,7 @@
 Linea 1
-Linea 2 diferente en main
+<<<<<<< HEAD
+Linea 2 diferente en main a ver
+=======
+Linea 2 modificada ahora en conflicto 2
+>>>>>>> rama-conflicto
 Linea 3
